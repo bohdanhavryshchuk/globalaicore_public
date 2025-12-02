@@ -1,5 +1,5 @@
 # 🤖 All your favorite AI models in one Telegram chat  
-### ChatGPT | DeepSeek | Gemini | Claude | Grok
+### ChatGPT | Gemini | Nano Banana | DALL·E 3 | Sora | Veo
 
 Meet **AI Assistant** — your personal all-in-one AI companion right inside **Telegram**.  
 No apps, no tabs — just chat.
@@ -8,8 +8,9 @@ No apps, no tabs — just chat.
 
 ### 💡 What it can do
 • Answer questions, write texts, code, and ideas  
-• **voice requests** and **voice mode** (bot will also respond with voice, perfect if you are driving on the road or busy with your hands)
-• **Generate and edit images** with AI  
+• **voice requests** and **voice mode** (bot will also respond with voice, perfect if you are driving on the road or busy with your hands)  
+• **Generate and edit images**  
+• **Generate video**  
 • Work with **documents and files** — just send one (contract, article, Excel, etc.) and say:  
   👉 “summarize”, “translate”, “analyze”, or “make a sample”  
 • Explain, teach, or just chat naturally  
@@ -19,6 +20,7 @@ No apps, no tabs — just chat.
 
 ### 🚀 What’s next
 • Integration with **DeepSeek**, **Grok**, **Claude**, **Gemini**, and more  
+• **Audio generation 🎶**  
 • **Cross-platform sync** (Web, etc.)  
 
 ---
